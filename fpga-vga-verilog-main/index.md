@@ -5,7 +5,7 @@ tags: fpga vga verilog
 categories: demo
 ---
 
-Add a short welcome message or introduction here. Aim to get the viewer interested in what follows! Guideline: 1 or 2 sentences. 
+Hello and welcome to my project based on the Filipino flag
 
 I am adding a test sentence here at 13:24 on 03/12/24.
 
