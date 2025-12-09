@@ -19,6 +19,7 @@ With VGATop as the head design source, the clock, VGASync and the ColourStripes 
 
 ### **Simulation**
 Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+<img width="1459" height="673" alt="Screenshot 2025-12-09 145528" src="https://github.com/user-attachments/assets/ae96d2e1-ec19-4083-b3e5-874a6b3d7bc4" />
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
