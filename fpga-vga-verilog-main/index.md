@@ -23,6 +23,7 @@ Explain the simulation process. Reference any important details, include a well-
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+<img width="651" height="518" alt="Screenshot 2025-12-09 150509" src="https://github.com/user-attachments/assets/046d6bc8-af07-4353-b8dc-f1d34176744f" />
 
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
