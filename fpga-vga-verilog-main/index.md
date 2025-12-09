@@ -11,7 +11,7 @@ Hello and welcome to my project based on the Filipino flag
 ### **Project Set-Up**
 Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+<img width="472" height="637" alt="Screenshot 2025-12-09 134830" src="https://github.com/user-attachments/assets/0bfe900d-3f0f-4360-9dba-96e5a65f02d7" />
 ### **Template Code**
 
 The template I was given, simulated the VGA interface which works by sending analog signals of RGB and timing signals to paint the screen with various colours. This works by using binary coding, precision / timing, HSync and VSync pulses. 
