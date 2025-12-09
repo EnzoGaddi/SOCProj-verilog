@@ -13,7 +13,6 @@ Summarise the project set-up and design flow. Include a screenshot of your own s
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
 ### **Template Code**
-Outline the structure and design of the Verilog code templates you were given. What do they do? Include reference to how a VGA interface works. Guideline: 2/3 short paragraphs, consider including screenshot(s).
 
 The template I was given, simulated the VGA interface which works by sending analog signals of RGB and timing signals to paint the screen with various colours. This works by using binary coding, precision / timing, HSync and VSync pulses. 
 With VGATop as the head design source, the clock, VGASync and the ColourStripes are sub headings.
