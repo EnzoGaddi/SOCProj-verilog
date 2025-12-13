@@ -18,7 +18,9 @@ The template I was given, simulated the VGA interface which works by sending ana
 With VGATop as the head design source, the clock, VGASync and the ColourStripes are sub headings.
 
 ### **Simulation**
-Explain the simulation process. Reference any important details, include a well-selected screenshot of the simulation. Guideline: 1/2 short paragraphs.
+The simulation uses the testbench code in order to simulate the clock, reset and signals in waveforms before synthesis and hardware implementation.
+
+As you can see in my simulation, clock alternates between 1s and 0s, reset stays zero and hsync, vsync and vid_on continues as 1s. This gives the view of a continuos image or colour on screen and gives me the all clear to start implementation.
 <img width="1459" height="673" alt="Screenshot 2025-12-09 145528" src="https://github.com/user-attachments/assets/ae96d2e1-ec19-4083-b3e5-874a6b3d7bc4" />
 
 ### **Synthesis**
