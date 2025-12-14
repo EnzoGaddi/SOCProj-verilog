@@ -44,6 +44,8 @@ As you can see in my simulation, clock alternates between 1s and 0s, reset stays
 
 ### **Synthesis**
 Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+
+All the changes are contained in the colour stripes files, VGASync remained untouched as it required no changing. Because of this, the only difference compared to the template file given, are the amount of clocks. 
 <img width="651" height="518" alt="Screenshot 2025-12-09 150509" src="https://github.com/user-attachments/assets/046d6bc8-af07-4353-b8dc-f1d34176744f" />
 
 ### **Demonstration**
