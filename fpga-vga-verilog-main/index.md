@@ -18,6 +18,7 @@ The template I was given, simulated the VGA interface which works by sending ana
 With VGATop as the head design source, the clock, VGASync and the ColourStripes are sub headings.
 
 ### **Simulation**
+The simulation uses the testbench code in order to simulate the clock, reset and signals in waveforms before synthesis and hardware implementation.
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
@@ -38,8 +39,6 @@ The two conditions: col < (row * 2 / 3) and col < ((479 − row) * 2 / 3), repre
 Lastly, The sun is generated using the circular equation: (x−xc​)^2 + (y−yc​)^2 < r^2, with pixels inside the radius coloured yellow to form the sun within the triangle. The squared distances are used in order to avoid square roots because they are expensive in hardware due to more clock cycles being used.
 
 ### **Simulation**
-The simulation uses the testbench code in order to simulate the clock, reset and signals in waveforms before synthesis and hardware implementation.
-
 As you can see in my simulation, clock alternates between 1s and 0s, reset stays zero and hsync, vsync and vid_on continues as 1s. This gives the view of a continuos image or colour on screen and gives me the all clear to start implementation.
 <img width="1459" height="673" alt="Screenshot 2025-12-09 145528" src="https://github.com/user-attachments/assets/ae96d2e1-ec19-4083-b3e5-874a6b3d7bc4" />
 
@@ -49,21 +48,3 @@ Describe the synthesis & implementation outputs for your design, are there any d
 
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
-
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
-
-Font can be emphasised as *Italic* or **Bold**.
-
-Code can be highlighted by using `backticks`.
-
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
-
-<img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
