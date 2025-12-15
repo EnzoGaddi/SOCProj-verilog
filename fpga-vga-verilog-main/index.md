@@ -31,6 +31,9 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 <img width="776" height="526" alt="Screenshot 2025-12-14 215553" src="https://github.com/user-attachments/assets/25e79c39-7583-41fc-8ac1-8840ee4c0329" />
 
 ## **My VGA Design Edit**
+
+<img width="1248" height="702" alt="Screenshot 2025-12-15 115908" src="https://github.com/user-attachments/assets/e5ad6186-3fae-463f-85a8-183646d0c3e5" />
+
 My design idea involved the flag of the Philippines as it still contained what we learned, with complexity of the triangle, three stars and a sun / circle contained in the triangle. Originally, I thought the triangle will be easy and that the circle and stars would take up majority of time because of physics. But I soon realised the triangle was also a hinderence as it also followed slopes and required advanced maths.
 
 
@@ -47,6 +50,10 @@ To start, the screen was split horizontally. Pixels with a row value less than 2
 
 The two conditions: col < (row * 2 / 3) and col < ((479 − row) * 2 / 3), represent the two straight lines that meet in the middle. These equations are derived from the formula x = m·y + c. As row increases from top to bottom, the first equation widens the triangle, while the second narrows it again, together forming the triangular shape.
 
+<img width="919" height="565" alt="Screenshot 2025-12-14 215446" src="https://github.com/user-attachments/assets/e3444251-76ab-4e5a-bbab-293b11883e44" />
+
+(Second design with succesfull triangle)
+
 Lastly, The sun is generated using the circular equation: (x−xc​)^2 + (y−yc​)^2 < r^2, with pixels inside the radius coloured yellow to form the sun within the triangle. The squared distances are used in order to avoid square roots because they are expensive in hardware due to more clock cycles being used.
 
 ### **Simulation**
@@ -62,5 +69,4 @@ All the changes are contained in the colour stripes files, VGASync remained unto
 ### **Demonstration**
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
-<img width="919" height="565" alt="Screenshot 2025-12-14 215446" src="https://github.com/user-attachments/assets/e3444251-76ab-4e5a-bbab-293b11883e44" />
 <img width="771" height="524" alt="Screenshot 2025-12-14 215619" src="https://github.com/user-attachments/assets/8a869462-e2a8-4c4d-b6bd-bdca947115ab" />
