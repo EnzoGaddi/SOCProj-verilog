@@ -26,6 +26,8 @@ Describe the synthesis and implementation processes. Consider including 1/2 usef
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
+<img width="776" height="526" alt="Screenshot 2025-12-14 215553" src="https://github.com/user-attachments/assets/25e79c39-7583-41fc-8ac1-8840ee4c0329" />
+
 ## **My VGA Design Edit**
 My design idea involved the flag of the Philippines as it still contained what we learned, with complexity of the triangle, three stars and a sun / circle contained in the triangle. Originally, I thought the triangle will be easy and that the circle and stars would take up majority of time because of physics. But I soon realised the triangle was also a hinderence as it also followed slopes and required advanced maths.
 
