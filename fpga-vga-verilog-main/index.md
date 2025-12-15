@@ -25,6 +25,8 @@ The simulation uses the testbench code in order to simulate the clock, reset and
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 
+<img width="1439" height="512" alt="Screenshot 2025-12-15 115927" src="https://github.com/user-attachments/assets/8bf5ada7-8ed1-4140-b67c-ec9266a7cd91" />
+
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
