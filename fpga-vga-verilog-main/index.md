@@ -54,3 +54,4 @@ All the changes are contained in the colour stripes files, VGASync remained unto
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
 <img width="919" height="565" alt="Screenshot 2025-12-14 215446" src="https://github.com/user-attachments/assets/e3444251-76ab-4e5a-bbab-293b11883e44" />
+<img width="751" height="562" alt="Screenshot 2025-12-14 215519" src="https://github.com/user-attachments/assets/ce978d17-bced-4861-a5a9-2491edcb6b7b" />
