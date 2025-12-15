@@ -20,6 +20,8 @@ With VGATop as the head design source, the clock, VGASync and the ColourStripes 
 ### **Simulation**
 The simulation uses the testbench code in order to simulate the clock, reset and signals in waveforms before synthesis and hardware implementation.
 
+<img width="1285" height="580" alt="Screenshot 2025-12-15 115838" src="https://github.com/user-attachments/assets/454076b1-006e-4909-bb2e-c42efc83e646" />
+
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
 
