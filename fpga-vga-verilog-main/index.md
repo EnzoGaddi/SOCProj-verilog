@@ -31,6 +31,11 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 ## **My VGA Design Edit**
 My design idea involved the flag of the Philippines as it still contained what we learned, with complexity of the triangle, three stars and a sun / circle contained in the triangle. Originally, I thought the triangle will be easy and that the circle and stars would take up majority of time because of physics. But I soon realised the triangle was also a hinderence as it also followed slopes and required advanced maths.
 
+
+<img width="751" height="562" alt="Screenshot 2025-12-14 215519" src="https://github.com/user-attachments/assets/ce978d17-bced-4861-a5a9-2491edcb6b7b" />
+
+(First design in trying to get triangle to point right, towards middle of screen)
+
 ### **Code Adaptation**
 The only code that differs from the original template, is the output and logic section that contains binary code. 
 
@@ -56,4 +61,4 @@ All the changes are contained in the colour stripes files, VGASync remained unto
 If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
 
 <img width="919" height="565" alt="Screenshot 2025-12-14 215446" src="https://github.com/user-attachments/assets/e3444251-76ab-4e5a-bbab-293b11883e44" />
-<img width="751" height="562" alt="Screenshot 2025-12-14 215519" src="https://github.com/user-attachments/assets/ce978d17-bced-4861-a5a9-2491edcb6b7b" />
+<img width="771" height="524" alt="Screenshot 2025-12-14 215619" src="https://github.com/user-attachments/assets/8a869462-e2a8-4c4d-b6bd-bdca947115ab" />
