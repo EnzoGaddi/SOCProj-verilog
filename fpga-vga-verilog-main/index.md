@@ -9,9 +9,9 @@ Hello and welcome to my project based on the Filipino flag
 
 ## **Template VGA Design**
 ### **Project Set-Up**
-Summarise the project set-up and design flow. Include a screenshot of your own set-up, for example see the image of my Project Summary window below. Guideline 1 short paragraph.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSum.png">
+
 ### **Template Code**
 
 The template I was given, simulated the VGA interface which works by sending analog signals of RGB and timing signals to paint the screen with various colours. This works by using binary coding, precision / timing, HSync and VSync pulses. 
@@ -69,6 +69,10 @@ All the changes are contained in the colour stripes files, VGASync remained unto
 <img width="651" height="518" alt="Screenshot 2025-12-09 150509" src="https://github.com/user-attachments/assets/046d6bc8-af07-4353-b8dc-f1d34176744f" />
 
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+When I began this project, I thought the flag would be achievable and that the stars would be the only minor setback to my time. But I soon realised after trying to build the triangle, it was a lot more complicated than it looked and gives me more of an eppreciation for the engineers who build these advanced images.
+
+If I were to do this again, after my experience with these shapes, I would make a scenic view of a mountain rather than something mundane like a flag.
 
 <img width="771" height="524" alt="Screenshot 2025-12-14 215619" src="https://github.com/user-attachments/assets/8a869462-e2a8-4c4d-b6bd-bdca947115ab" />
+
+(Final design with a sun, but no stars)
