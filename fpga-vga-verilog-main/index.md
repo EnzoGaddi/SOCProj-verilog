@@ -32,7 +32,7 @@ My design idea involved the flag of the Philippines as it still contained what w
 ### **Code Adaptation**
 The only code that differs from the original template, is the output and logic section that contains binary code. 
 
-<img alt="Screenshot 2025-12-15 085611" src="fpga-vga-verilog-main/docs/assets/images/Screenshot 2025-12-15 085611.png" />
+<img width="791" height="701" alt="Screenshot 2025-12-15 114639" src="https://github.com/user-attachments/assets/88081b58-7d0e-4dad-af0f-f69425de3eae" />
 
 To start, the screen was split horizontally. Pixels with a row value less than 240 are colored blue, forming the upper half, while pixels below that are colored red, forming the lower half. The triangle is layed on top of this, by checking every pixel against line equations and only those that satisfy the conditions are coloured white. But to get the shape, where the triangle points left : 
 
